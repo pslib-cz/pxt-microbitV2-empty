@@ -1,29 +1,4 @@
-
-> Open this page at [https://tomaskazda.github.io/pxt-microbitv2-empty/](https://tomaskazda.github.io/pxt-microbitv2-empty/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tomaskazda/pxt-microbitv2-empty** and import
-
-## Edit this project ![Build status badge](https://github.com/tomaskazda/pxt-microbitv2-empty/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/tomaskazda/pxt-microbitv2-empty** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/tomaskazda/pxt-microbitv2-empty/raw/master/.github/makecode/blocks.png)
+# Micro:bit V2 empty project files
 
 #### Metadata (used for search, rendering)
 
